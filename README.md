@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Ashish Oli
-- 👀 I’m a self-taught Software developer.
-- 🌱 Tools and technologies I work on-  Rust, Kubernetes, Docker, Prometheus, CI/CD, RabbitMQ, Bash scripting, technical writing, Javascript, Go, MERN stack, Postgres, redis
-- 💞️ I’m looking to collaborate on any kind of web development, backend, cloud, devops roles that requires my skills.
-- 📫 How to reach me - gmail - oliashish3@gmail.com, linkedin - https://in.linkedin.com/in/ashish-oli-3b559015b.
+#### 🚀 **Hi, I'm Ashish Oli!**  
+**Cloud & Platform Engineer | DevOps Enthusiast | Open Source Contributor**  
 
+🔹 Passionate about building **cloud-native applications** and optimizing **platform engineering workflows**.  
+🔹 Experienced in **AWS, Kubernetes, Terraform, GitOps**, and **Observability**.  
+🔹 Skilled in **Go, Python, Rust, JavaScript**, and developing scalable backend & cloud solutions.  
 
+---
+
+##### 🛠️ **Tech Stack**
+💻 **Languages**: Go, Python, Rust, JavaScript  
+☁️ **Cloud & DevOps**: AWS, Kubernetes, Docker, Terraform, GitOps  
+🟢 **Databases**: PostgreSQL, Redis  
+🔌 **Backend & APIs**: gRPC, Node.js, Express.js  
+⚙️ **Other Tools**: Linux, Git, Nginx, Vim  
+
+---
