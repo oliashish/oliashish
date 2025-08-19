@@ -1,5 +1,5 @@
 #### 🚀 **Hi, I'm Ashish Oli!**  
-**Cloud & Platform Engineer | DevOps Enthusiast | Open Source Contributor**  
+**Software and Cloud Engineer**  
 
 🔹 Passionate about building **cloud-native applications** and optimizing **platform engineering workflows**.  
 🔹 Experienced in **AWS, Kubernetes, Terraform, GitOps**, and **Observability**.  
